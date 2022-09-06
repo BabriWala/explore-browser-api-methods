@@ -30,3 +30,14 @@ history.length
 
 
 Cookies
+Application -> cookies
+Document.cookie
+Document.cookie.split(; )
+
+Session Storage & Local Storage
+localstorage.getItem('name)
+localstorage.setItem('darkmode', true)
+localstorage er value gulo stringify kore then kaj korte hobe
+localstorage e kono kisu rakhte hole stringify kore then rakhte hobe
+localstorage.remove
+localstorage.clear
