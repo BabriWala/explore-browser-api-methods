@@ -41,3 +41,5 @@ localstorage er value gulo stringify kore then kaj korte hobe
 localstorage e kono kisu rakhte hole stringify kore then rakhte hobe
 localstorage.remove
 localstorage.clear
+
+inspect khule Escape key button capte hobe
