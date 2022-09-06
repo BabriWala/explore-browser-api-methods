@@ -15,3 +15,18 @@ consits of navigator, history, screen, location --- represents content of the we
 
 3 types of Pop Up Box
 alert confirm  promt
+
+Location.reload, assign, href, hash, toString
+
+assign korle jinistah onno jaigai jabe and ager tao takbe 
+but replace oitar upore mer dibe
+
+Location (URL Parsing) - Properties
+protocol, hostname, port, pathname, search, hash
+
+browser history
+history.back().forward().go().go(-1).go(1).go(2).go(3).go(4).go(5)
+history.length
+
+
+Cookies
